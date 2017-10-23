@@ -4,8 +4,8 @@ class Php71Amqp < AbstractPhp71Extension
   init
   desc "Communicates with any AMQP 0-9-1 compatible server."
   homepage "https://pecl.php.net/package/amqp"
-  url "https://pecl.php.net/get/amqp-1.9.1.tgz"
-  sha256 "219cdad0ef26d30c9d820be3d0c06a9b35d3d1cb6b7e049948bc952223721119"
+  url "https://pecl.php.net/get/amqp-1.9.3.tgz"
+  sha256 "5a46a81e5625996842ee9e01e591c03b3ada3a65d4154d1d458019ca9f68b359"
   head "https://github.com/pdezwart/php-amqp.git"
 
   bottle do
